@@ -4,4 +4,5 @@
     "host": "https://github.com/krzychoooo/ESP32FOTA/",
     "port": 80,
     "bin": "esp32-fota-http-2.bin"
-}
+	}
+	
