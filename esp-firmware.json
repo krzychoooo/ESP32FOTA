@@ -4,5 +4,5 @@
     "host": "https://esp32-testy.000webhostapp.com",
     "port": 80,
     "bin": "/firmware.bin"
-	}
+}
 
