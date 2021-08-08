@@ -1,7 +1,7 @@
 {
     "type": "esp32-fota-http",
     "version": 2,
-    "host": "https://raw.githubusercontent.com/krzychoooo/ESP32FOTA/main/",
+    "host": "https://esp32-testy.000webhostapp.com",
     "port": 80,
     "bin": "firmware.bin"
 	}
