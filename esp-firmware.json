@@ -1,7 +1,7 @@
 {
     "type": "esp32-fota-http",
     "version": 2,
-    "host": "http://www.projektypcb.pl/",
+    "host": "projektypcb.pl/",
     "port": 80,
     "bin": "/bin/firmware.bin"
 }
