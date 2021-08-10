@@ -1,8 +1,8 @@
 {
     "type": "esp32-fota-http",
     "version": 2,
-    "host": "https://esp32-testy.000webhostapp.com",
+    "host": "https://www.szybkiplik.pl/files/f9d1aec5d0b8364999644694e71873a5.bin",
     "port": 80,
-    "bin": "/bin/firmware.bin"
+    "bin": "/files/f9d1aec5d0b8364999644694e71873a5.bin"
 }
 
